@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/emotional-diary-app/static/css/main.a5203d58.css",
-    "main.js": "/emotional-diary-app/static/js/main.d1fcd4cb.js",
+    "main.js": "/emotional-diary-app/static/js/main.4f4c8a71.js",
     "index.html": "/emotional-diary-app/index.html",
     "main.a5203d58.css.map": "/emotional-diary-app/static/css/main.a5203d58.css.map",
-    "main.d1fcd4cb.js.map": "/emotional-diary-app/static/js/main.d1fcd4cb.js.map"
+    "main.4f4c8a71.js.map": "/emotional-diary-app/static/js/main.4f4c8a71.js.map"
   },
   "entrypoints": [
     "static/css/main.a5203d58.css",
-    "static/js/main.d1fcd4cb.js"
+    "static/js/main.4f4c8a71.js"
   ]
 }
